@@ -1,0 +1,16 @@
+#
+nltk
+
+# 
+matplotlib
+numpy
+pandas
+
+#
+seaborn
+
+#
+pyvi
+
+#
+sklearn
